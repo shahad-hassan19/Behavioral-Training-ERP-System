@@ -1,4 +1,4 @@
-# 🏥 BTS – Behavioral Training System
+# 🏥 Behavioral Training ERP System
 
 *Deployment:* Private  
 *Stack:* Next.js (TypeScript), Tailwind CSS, Radix UI, TanStack React Table, React Hook Form, Zod, Axios
