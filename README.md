@@ -186,11 +186,6 @@ BTS is deployed in a **private environment** for internal use by the client orga
 
 The defined scope for BTS has been **fully completed**. All planned modules — client management, appointments, staff, insurance billing, payroll, and role-based dashboards — have been built and delivered.
 
-Future improvements may include:
-- Real-time notifications for appointment or claim status changes
-- Reporting and analytics dashboards with data visualizations
-- Mobile-responsive enhancements for field staff usage
-
 
 ---
 
